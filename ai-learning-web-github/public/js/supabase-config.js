@@ -1,6 +1,6 @@
 window.SUPABASE_CONFIG = Object.freeze({
   url: 'https://ubdocklqacitrijswbjw.supabase.co',
-  anonKey: 'YOUR_SUPABASE_ANON_KEY',
+  anonKey: 'sb_publishable_Y22OCU4NRhptBesxP5-V8g_0qz31Y_n',
 });
 
 window.appAsset = function(path){
